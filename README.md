@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m [Sid.py]! 👋
 
-<!--
-**BscCanCode/BScCanCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- **Name**: [Sid.py]
+- **Location**: [India]
+- **Focus**: Python programming, with a goal to dive into AI/ML
+- **Hobbies**: Coding, problem-solving, and experimenting with new ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+- **Languages**: Python (Learning)
+
+## My Projects
+- **[ToDo List App](https://github.com/BscCanCode/todolist)**: A simple app to manage tasks (April 2025).
+
+## Get in Touch
+- **GitHub**: [https://github.com/BscCanCode](https://github.com/BscCanCode)
+- **Email**: [Email:xabc31101@gmail.com, if you want]
+- **Feedback**: Open to suggestions—star my repos or open issues!
+
+## Fun Fact
+This profile README was crafted with help from an AI chatbot—proof I’m already leveraging tech to grow!
+
+---
+
+*Last updated: April 5, 2025*
